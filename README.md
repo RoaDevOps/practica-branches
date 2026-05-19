@@ -9,4 +9,4 @@ esta es solo yo:
 5. git checkout main → volver a main
 6. git merge feature/mi-primera-rama → unir cambios
 
-terer intento solo
+tercer intento solo
