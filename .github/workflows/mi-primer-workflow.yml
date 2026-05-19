@@ -1,0 +1,13 @@
+name: Mi primer CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Saludo de Roa
+        run: echo "Hola! CI/CD funcionando!"
